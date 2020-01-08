@@ -20,3 +20,4 @@
 - 这是[完整HTML](http://pingzi0211.gitee.io/interactive-final)
 - 这是[18级师弟url](http://xiaofeng0418.pythonanywhere.com/)
 - 这是[码云项目介绍](https://gitee.com/pingzi0211/python3/blob/master/README.md)
+- 数据文件在github同仓库下另一文件内。
